@@ -29,3 +29,4 @@ ErrorDocument 404 /404.php
   ExpiresByType application/javascript "access plus 3 day"  
 </IfModule>
 #коммент 3
+#коммент 4
